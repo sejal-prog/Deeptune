@@ -12,16 +12,6 @@
 
 DeepTune is an AutoML-driven framework for efficiently adapting pre-trained foundation models (DINOv2) to diverse computer vision tasks. The project systematically explores the trade-offs between different fine-tuning strategies, layer selection, and computational efficiency across multiple datasets.
 
-## 🔬 Key Results
-
-### Performance Benchmarks
-
-| Dataset | DeepTune | QuickTune | Finetune2.3M | Improvement |
-|---------|----------|-----------|--------------|-------------|
-| **Fashion-MNIST** | **0.88** | 0.79 | 0.86 | +11% vs QuickTune |
-| **Flowers** | **0.72** | - | 0.69 | - |
-| **Skin Cancer** | **0.75** | - | 0.73 | - |
-| **Emotions** | **0.60** | - | 0.60 | - |
 
 ### Computational Resources
 - **GPU Hours:** ~1000 hours on RTX 3090
