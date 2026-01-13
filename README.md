@@ -20,6 +20,16 @@ DeepTune is an AutoML-driven framework for efficiently adapting pre-trained foun
 - **Fine-tuning Approaches:** Intermediate layers, head-tuning, full fine-tuning
 
 ---
+### Model Performance Comparison
+
+| Model         | Fashion | Emotions | Flowers | Skin Cancer |
+|---------------|--------|----------|---------|-------------|
+| QuickTune     | 0.78   | 0.32     | 0.14    | 0.75        |
+| DINOv2 + LP   | 0.83   | 0.37     | 1.00    | 0.60        |
+| DeepTune      | 0.88   | 0.44     | 0.99    | 0.80        |
+
+
+---
 
 ## 🏗️ Architecture & Approach
 
