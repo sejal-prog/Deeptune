@@ -11,7 +11,7 @@
 ## Project Poster
 
 This project was presented as part of the AutoML practical at University of Freiburg.  
-📄 [View Poster (PDF)](/home/sejal/Downloads/Deeptune_poster.pdf)
+📄 [View Poster (PDF)]([/home/sejal/Downloads/Deeptune_poster.pdf](https://drive.google.com/file/d/1OFNrATRLhJaKzEWt2xXPyy84UHHCPQlm/view?usp=sharing))
 
 ## 🎯 Overview
 
