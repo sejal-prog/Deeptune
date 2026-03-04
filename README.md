@@ -8,6 +8,11 @@
 
 ---
 
+## Project Poster
+
+This project was presented as part of the AutoML practical at University of Freiburg.  
+📄 [View Poster (PDF)](/home/sejal/Downloads/Deeptune_poster.pdf)
+
 ## 🎯 Overview
 
 DeepTune is an AutoML-driven framework for efficiently adapting pre-trained foundation models (DINOv2) to diverse computer vision tasks. The project systematically explores the trade-offs between different fine-tuning strategies, layer selection, and computational efficiency across multiple datasets.
